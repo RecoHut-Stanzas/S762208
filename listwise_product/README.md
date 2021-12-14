@@ -9,7 +9,10 @@
     pip install -r requirements.txt
 
 ## DATASETS
-Downloads and unzips datasets : [https://drive.google.com/file/d/1h5DEIT-JYeR5e8D8BK6dny5zYCwth1rl/view?usp=sharing]()
+Downloads and unzips datasets : https://drive.google.com/file/d/1h5DEIT-JYeR5e8D8BK6dny5zYCwth1rl/view?usp=sharing
+
+Data also available here: https://www.kaggle.com/haininhnhamdo/mhnnfinaldata
+
 ## TRAINING
 Open and run file `train.ipynb` 
 
